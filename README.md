@@ -1,2 +1,2 @@
 # payment
-集成三方支付SDK
+for ansuns/payment support
