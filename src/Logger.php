@@ -52,7 +52,7 @@ class Logger
      */
     protected $config = [
         'file' => null,
-        'identify' => 'yansongda.supports',
+        'identify' => 'ansuns.supports',
         'level' => BaseLogger::DEBUG,
         'type' => 'daily',
         'max_files' => 30,
